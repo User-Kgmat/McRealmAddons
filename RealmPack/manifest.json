@@ -1,0 +1,38 @@
+{
+"format_version": 2,
+"header": {
+    "description": "General Addons for Minecraft Realms",
+    "name": "Minecraft Realms Addons",
+    "uuid": "baebaafa-b138-45ad-9e2f-c3d7c57c7bbe",
+    "version": [ 0, 0, 1 ],
+    "min_engine_version": [ 1, 14, 0 ]
+
+
+},
+"modules": [
+    {
+        "description": "General Addons for Minecraft Realms",
+        "type": "data",
+        "uuid": "ad89d71f-b777-4677-b48b-8ad9e9660767",
+        "version": [ 0, 0, 1 ]
+    }
+],
+"metadata": {
+    "authors": [
+        "User-Kgmat"
+    ],
+    "url": "https://github.com/User-Kgmat"
+},
+
+"dependencies": [
+    {
+        "uuid": "baebaafa-b138-45ad-9e2f-c3d7c57c7bbe",
+        "version":[
+            1,
+            0,
+            0
+        ]
+    }
+    ]
+
+}
